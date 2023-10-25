@@ -3,6 +3,9 @@
 {
 "FROM":
 [
+"EKKO",
+"EKPO",
+"LFA1",
 "MAKT",
 "MARA"
 ],
